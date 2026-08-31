@@ -1,0 +1,11 @@
+[submodule "AnyGL/angle"]
+	path = AnyGL/angle
+	url = https://github.com/google/angle.git
+
+[submodule "AnyGL/swiftshader"]
+	path = AnyGL/swiftshader
+	url = https://github.com/google/swiftshader.git
+
+[submodule "Core"]
+	path = Core
+	url = https://github.com/krkrsdl3/krkrsdl3.git
